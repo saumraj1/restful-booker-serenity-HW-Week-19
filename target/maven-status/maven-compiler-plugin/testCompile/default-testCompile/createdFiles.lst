@@ -1,0 +1,9 @@
+com\restfulbooker\bookinginfo\BookingCrudTest.class
+com\restfulbooker\bookinginfo\BookingDeleteRequest.class
+com\restfulbooker\bookinginfo\BookingPostRequest.class
+com\restfulbooker\testbase\TestBaseAuth.class
+com\restfulbooker\bookinginfo\BookingPatchRequest.class
+com\restfulbooker\bookinginfo\BookingPutRequest.class
+com\restfulbooker\bookinginfo\BookingGetRequest.class
+com\restfulbooker\testbase\TestBaseBooking.class
+com\restfulbooker\authinfo\CreatingAuthenticationToken.class
